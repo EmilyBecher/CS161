@@ -1,0 +1,7 @@
+Questions:
+
+1. No, they will be different variables
+2. The address of the argument
+3. The call needs to pass in the address of the variable (&)
+4. An ampersand denotes an address while an asterisk denotes a variable
+   that holds addresses

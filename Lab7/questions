@@ -1,0 +1,12 @@
+Lab 7 Questions
+
+1. 5
+2. The program wouldn't compile since the function is called before its definition
+3. Segmentation fault since without a base case factorial will be continued to be called until the stack overflows.
+4. No, they are in different scopes.
+
+Recursion v Iteration Observation
+For the first four outputs both function displayed the correct answer immediately.
+When n = 45 the recursive function takes a while to find an answer while the iterative function still found the answer immediately.
+
+You can use the fibonacci function, just subtract the input by 2

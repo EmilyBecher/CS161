@@ -1,0 +1,8 @@
+Lab 4 Reflection
+
+Vim Commands
+	=G to auto indent your program
+	dd to delete the line
+	y3 to copy current and next three lines
+	p  to paste 
+	:set cindent to set the number of space for an indent
